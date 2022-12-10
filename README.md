@@ -10,12 +10,22 @@
 - Выполнить команду: ```composer install```
 - Выполнить команду: ```npm install```
 - Выполнить команду: ```php artisan key:generate```
-- Выполнить команду: ```php artisan key:generate```
 - Выполнить команду: ```php artisan migrate```
 - Выполнить команду: ```php artisan db:seed```
-- Выполнить команду: ```npm run watch```
+- Выполнить команду: ```npm run dev```
 - Проект развёрнут
 
-## Посмотреть развёрнутый проект можно по ссылке
+## Пользователи
 
-http://podb.erud.by/
+Админ:
+- admin@mail.ru
+- qwer
+
+Менеджер:
+- manager@mail.ru
+- qwer
+
+Пользователь:
+- user@mail.ru
+- qwer
+
